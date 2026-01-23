@@ -56,8 +56,7 @@
 
 ### 📈 GitHub Stats
 
-| ![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishek-create-sah&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-create-sah&layout=compact&theme=radical) |
-| :--- | :--- |
+| ![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishek-create-sah&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-create-sah&layout=compact&theme=radical) 
 
 ---
 
